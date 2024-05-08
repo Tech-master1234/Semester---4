@@ -1,0 +1,6 @@
+price,area,bedrooms,bathrooms,storiest,mainroad,guestroom,basement,hotwaterheating,airconditioning,parking,prefarea,furnishingstatus
+133000,7420,4,2,2,yes,no,no,no,yes,2,yes,furnished
+122500,8960,4,4,4,yes,no,no,no,yes,3,no,furnished
+122500,9960,3,2,2,yes,no,yes,no,yes,2,yes,semi-furnished
+122150,7500,4,2,2,yes,no,no,no,yes,3,yes,unfurnished
+114100,7420,4,1,1,yes,yes,yes,yes,yes,2,yes,furnished
